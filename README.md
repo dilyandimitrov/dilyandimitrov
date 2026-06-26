@@ -10,7 +10,7 @@ Trying to build products alongside my 9-5. Learning how to ship and do marketing
 | Project | Description | Status |
 | :--- | :--- | :--- |
 | **[racecalendar.bg](https://racecalendar.bg)** | The only running race calendar in Bulgaria combining all races in one place | 🏃‍♂️ Active, 6+ years |
-| **[amonthly.com](https://amounthly.com)** | The subscription tracker is not a subscription and doesn't sync with your bank | 🆕 Active, New |
+| **[amonthly.com](https://amounthly.com)** | The subscription tracker that is not a subscription and doesn't sync with your bank | 🆕 Active, New |
 
 ---
 
