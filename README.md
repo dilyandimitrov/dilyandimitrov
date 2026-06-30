@@ -19,6 +19,17 @@ Trying to build products alongside my 9-5. Learning how to ship and do marketing
 - **Personal Website:** [dapps.dk](https://dapps.dk)
 - **Twitter / X:** [@DilyanDimitrov](https://x.com/DilyanDimitrov)
 
+### ⚡ Commit History 
+
+<div>
+  <a href="https://commit-history.com/dilyandimitrov">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/dilyandimitrov?theme=dark" />
+      <img alt="dilyandimitrov's commit history" src="https://commit-history.com/embed/dilyandimitrov" />
+    </picture>
+  </a>
+</div>
+
 
 <!--
 **dilyandimitrov/dilyandimitrov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
